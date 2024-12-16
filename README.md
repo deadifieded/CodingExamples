@@ -1,6 +1,6 @@
 # CodingExamples
 
-Disclaimer: some elements of Rydbergs and CellularAutomata are taken directly from examples in MS documentation for windows.h, namely basewin.h which is present in each and virtually unmodified.
+Disclaimer: some elements of Rydbergs and CellularAutomata are taken directly from examples in the MS documentation for windows.h, namely basewin.h which is present in each and virtually unmodified.
 
 Examples of projects I've worked on for employers:
 
