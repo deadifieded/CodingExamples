@@ -502,7 +502,7 @@ public:
 
        // BitBlt(hdc, 1000,400, cell_size, cell_size, cell_mask_hdc, 0, 0, SRCINVERT);
 
-        for (int i = 0; i<1;i+=1)//i < n_particles; i += 1)
+        for (int i = 0; i < n_particles; i += 1)
         {
             //if (true)
                 MaskBlt(hdc, x_pos[i] * scaling - cell_rad, y_pos[i] * scaling - cell_rad, cell_size, cell_size, cell_hdcs[types[i]], 0, 0, cell_mask, 0, 0, MAKEROP4(SRCCOPY, 0x00AA0029));
